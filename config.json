@@ -1,0 +1,5 @@
+{
+    "token":"Insert_discord_token_here",
+    "prefix":"!",
+    "BotStatus":"This is what will show beside your bot on the users tab"
+}
